@@ -1,5 +1,5 @@
 //this class is meant to generate the random password
-// Chanloeu Ek
+// Authored by Chanloeu Ek
 import java.util.Scanner;
 
 public class Randomizer {
